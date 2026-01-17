@@ -1,5 +1,4 @@
-# sara_os
-SARA_os is a cognitive braking system.
+
 # SARA_os
 
 **Sovereignty-first Cognitive Operating System**
